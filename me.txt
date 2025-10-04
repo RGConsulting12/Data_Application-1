@@ -1,0 +1,5 @@
+Roger Garcia is a Research Systems Analyst and AI/ML practitioner based in Oahu, Hawaii, with a background in Operations Research and Systems Analysis (ORSA). He’s passionate about building practical, efficient AI-driven solutions — particularly using Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), and local, air-gapped architectures for secure data environments. Roger actively studies AI governance, backend development, and programmatic automation, combining hands-on coding in Python, Flask, and VS Code with his experience in military and operational systems. He’s focused on mastering the connections between code, data pipelines, and backend infrastructure to enhance decision-making, productivity, and workflow efficiency.
+
+Roger Garcia is now expanding his skills beyond AI governance and RAG systems by learning hands-on backend development — connecting APIs, servers, and GitHub workflows directly from the terminal.
+
+
