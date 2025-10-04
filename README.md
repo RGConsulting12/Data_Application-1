@@ -1,8 +1,5 @@
 ---
 
-# Data_Application-1
-Initial EDA for ML Data
-
 # Flight and Airport Data Project
 
 This project will collect and combine **flight data** and **airport location data** so it can be used for future analysis and visualizations.
